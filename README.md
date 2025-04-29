@@ -1,45 +1,26 @@
-# Blood-Bank-&-Donation-Management-System
+# Blood Bank & Donation Management System
 
 Blood Bank Donation System is a php based web project with both admin and user layouts.
 
-# Installation
+## 🚀 Features
 
-1. Install XAMPP or WAMPP.
+- 🧑‍💻 Donor registration and login
+- 🩸 Blood request form for recipients
+- 📋 Admin panel for managing donors, recipients, and blood inventory
+- 🔍 Search blood availability
+- 📅 View donation history and eligibility
+- 🔐 Secure authentication and session management
 
-2. Open XAMPP Control panal and start [apache] and [mysql] .
+---
 
-3. Download project from github(https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git).
+## 🛠️ Tech Stack
 
-   OR follow gitbash commands <br>
-     ```t
-         i>cd C:\\xampp\htdocs\
-        ii>git clone https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git
-     
-     
-4. Extract files in C:\xampp\htdocs.
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
+- **Tools:** XAMPP / MAMP / WAMP for local server
 
-5. Open link localhost/phpmyadmin
-
-6. Click on new at side navbar.
-
-7. Give a database name as (blood_bank_database) hit on create button.
-
-8. After creating database name click on import.
-
-9. Browse the file in directory[BDMS/sql/blood_bank_database.sql].
-
-10. After importing successfully.
-
-11. Open any browser and type http://localhost/BDMS/home.php to open User layout.
-     
-# Admin Panel
-   Open any browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
-   
-   Enter Below Credentials to login to the Admin Panel.<br>
-   <b> Username = </b> varunsardana004<br>
-   <b>Password = </b> 123
-   
-# If you like my project hit the star 🌟 button
+---
 
 # Screenshots
 
