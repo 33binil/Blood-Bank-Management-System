@@ -14,27 +14,23 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Homepage3.jpg">
    <br>
    <br>
-   2. About Us Page
+   2. About Us
    <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Aboutuspage.jpg">
    <br>
    <br>
-   3. About Us
-   <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Aboutuspage.jpg">
-   <br>
-   <br>
-   4. Blood Donor List
+   3. Blood Donor List
    <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Blooddonorlist.jpg">
    <br>
    <br>
-   5. Search a Donor
+   4. Search a Donor
    <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Searchadonorpage.jpg">
    <br>
    <br>
-   6. Registration/login Page 
+   5. Registration/login Page 
    <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Registration.jpg">
    <br>
    <be>
-   7. Contact Us Page
+   6. Contact Us Page
    <img src="https://github.com/33binil/Blood-Bank-Management-System/blob/main/bbdms/images/Contactuspage.jpg">
    
    <br>
